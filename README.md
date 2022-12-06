@@ -1,5 +1,6 @@
 # Gallery
-![Alt Image text](https://github.com/Yash-srivastav16/Like-Dislike-Post-Angular/blob/master/2022-12-07.png?raw=true "Optional Title")
+![alt text](https://i.ibb.co/RzZ6y2S/Screenshot.jpg?raw=true)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
